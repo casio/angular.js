@@ -1,4 +1,5 @@
-build/
+build/build.js
+build/build.zip
 angularjs.netrc
 jstd.log
 .DS_Store
