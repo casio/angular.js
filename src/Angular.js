@@ -64,6 +64,9 @@ var Error             = window.Error,
     nodeName_,
     uid               = ['0', '0', '0'];
 
+// Export angular
+module.exports = angular;
+
 /**
  * @ngdoc function
  * @name angular.forEach

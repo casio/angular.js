@@ -1,0 +1,14 @@
+{
+  "name": "angular.js",
+  "repo": "casio/angular.js",
+  "description": "Component version of angular.js",
+  "version": "1.1.0",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js",
+    "build/angular.js"
+  ]
+}
